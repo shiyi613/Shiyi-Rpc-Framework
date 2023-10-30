@@ -1,0 +1,2 @@
+random=com.shiyi.loadbalance.loadbalancer.RandomLoadBalance
+consistentHash=com.shiyi.loadbalance.loadbalancer.ConsistentHashLoadBalance
